@@ -1,0 +1,19 @@
+Task: Create a 1-page fictional MoU (Memorandum of Understanding) or project summary with at least one AI-generated visual. 
+
+Requirements:
+1. Collaboration should be fictional but realistic (example: Paperpal Research Labs + SciSpace Innovations).
+2. Document should include:
+   - Title
+   - Parties Involved
+   - Purpose
+   - Scope of Collaboration
+   - Objectives
+   - Roles and Responsibilities
+   - Duration & Termination
+   - Signature Section
+3. Add at least one AI-generated visual (table, chart, or flowchart).
+
+Example Visual:
+- A table comparing the contributions of Paperpal, SciSpace, and LLMs.
+OR
+- A flowchart showing the process (e.g., Grammar Polish → Summarization → Report Generation).
